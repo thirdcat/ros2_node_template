@@ -1,0 +1,10 @@
+node_name:
+  ros__parameters:
+    string_param: "test"
+    int_param: 1
+    double_param: 1e-3
+    bool_param: true
+    vector_param: [1.0, 2.0, 3.0]
+    lidar_topic: "/livox/lidar_192_168_0_65"
+    imu_topic: "/livox/imu_192_168_0_65"
+    trigger_service_name: "/trigger"
