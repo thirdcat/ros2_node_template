@@ -19,8 +19,10 @@ this ROS 2 template node includes the following features
 
 ## Usage
 
+```bash
 $ ./convert_names [package name] [node name]
 $ git init
+```
 
 ## Dependencies on External Libraries
 
