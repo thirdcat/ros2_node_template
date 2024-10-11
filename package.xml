@@ -3,7 +3,7 @@
 <package format="3">
   <name>ros2_node_template</name>
   <version>0.0.1</version>
-  <description>a template node of ROS 2 for LGE internal use</description>
+  <description>a template node of ROS 2</description>
   <maintainer email="myeongcheol.kwak@lge.com">Myeongcheol Kwak</maintainer>
   <license>MIT</license>
 
